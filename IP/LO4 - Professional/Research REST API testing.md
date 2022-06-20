@@ -2,18 +2,9 @@
 
 ---
 
-## Inhoudsopgave
-Onderzoeksvraag
-1. asdf
-2. aslkdfl
-3. jaskdlf
-4. ajsdlfk
-
----
-
 ## Inleiding
 
-Ik ben bezig met een project waar meerdere REST api's een onderdeel van uitmaken.
+Ik ben bezig met een project waar meerdere microservices een onderdeel van uitmaken. Ik wil graag de software quality van deze microservices consistent verbeteren.
 
 ---
 

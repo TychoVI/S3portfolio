@@ -10,5 +10,7 @@ Alle microservices worden via een dockerfile gebuild naar hun eigen docker image
 ### Github actions
 Deze gebruik ik om de docker images te builden. Ook sonarqube en de tests draaien via github actions.
 
+[Workflow files](https://github.com/TychoVI/ActionloggerBackend/tree/staging/.github/workflows)
+
 ### Cloudflare pages
 Mijn frontend wordt gebuild en gedeployed via cloudflare pages. Deze doet dit bij elke push naar de master en naar de staging branch. Deze zijn vervolgens ook te bereiken via aparte endpoints.
