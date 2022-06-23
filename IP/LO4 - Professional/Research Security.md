@@ -1,4 +1,4 @@
-# Security Research - Broken Access Control
+# Security Research
 
 ---
 
